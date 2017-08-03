@@ -6,6 +6,12 @@ PSeudoCode-Online Console
 Ez egy online felület egy másik projektemhez (PSeudoCode-Compiler), ami egy mondatszerű leírás (aka. pseudo code) fordító és futási környezet.
 Mivel (mobil kompatibilis) web felületről van szó, így a mondatszerű leírás fordítására lehetőség van iOS, Android és Windows Phone rendszerekről is. 
 
+## Élő demó
+
+Próbáld ki az élő demót [itt](http://psc.gerviba.hu/).
+
+![DEMO](https://raw.githubusercontent.com/Gerviba/psc-online/master/screenshot.png)
+
 ## Tesztelve
 
  - Apache Tomcat 8.5 (Linux)
@@ -36,6 +42,7 @@ Mavennel `clean install` góllal buildeld.
 ## TODO
 
  - Tesztek (!)
+ - Responsive display fix
  - Kód mentése a szerveren
  - Konfiguráció
  - Korlátozások
