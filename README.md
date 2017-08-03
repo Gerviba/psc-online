@@ -10,7 +10,7 @@ Mivel (mobil kompatibilis) web felületről van szó, így a mondatszerű leír�
 
 Próbáld ki az élő demót [itt](http://psc.gerviba.hu/).
 
-![DEMO](https://raw.githubusercontent.com/Gerviba/psc-online/master/screenshot.png)
+![DEMO](https://raw.githubusercontent.com/Gerviba/psc-online/develop/screenshot.png)
 
 ## Tesztelve
 
