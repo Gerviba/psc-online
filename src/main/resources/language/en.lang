@@ -1,0 +1,20 @@
+# Basic Info
+lang.name=English
+lang.code=EN
+
+# Server Messages
+server.compile.started=
+server.process.killed=
+server.process.exit=
+server.overloaded=
+
+# Web Interface Messages
+menu.open=
+menu.save=
+menu.run=
+menu.stop=
+menu.git=
+menu.about=
+menu.manual=
+
+open.

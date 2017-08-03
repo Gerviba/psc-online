@@ -1,0 +1,9 @@
+# Basic Info
+lang.name=Magyar
+lang.code=HU
+
+# Messages
+compile.started=
+process.killed=
+process.exit=
+server.overloaded=
