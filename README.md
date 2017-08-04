@@ -8,7 +8,7 @@ Mivel (mobil kompatibilis) web felületről van szó, így a mondatszerű leír�
 
 ## Élő demó
 
-Próbáld ki az élő demót [itt](http://psc.gerviba.hu/).
+Próbáld ki az élő demót [itt](http://psc.gerviba.hu?src=git).
 
 ![DEMO](https://raw.githubusercontent.com/Gerviba/psc-online/develop/screenshot.png)
 
@@ -39,14 +39,9 @@ Cloneozd a repót vagy töltsd le tömörítve és csomagold ki.
 
 Mavennel `clean install` góllal buildeld.
 
-## TODO
+## Trello
 
- - Tesztek (!)
- - Responsive display fix
- - Kód mentése a szerveren
- - Konfiguráció
- - Korlátozások
- - Magyar felület
+A projekt trello táblája: [Trello](https://trello.com/b/foojaUu4/pseudocode-compiler)
  
 ## Felhasznált 3rd party cuccok
 
